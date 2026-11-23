@@ -1,0 +1,5 @@
+TileForge bundles OpenAI Codex CLI 0.171.0 and its runtime companions.
+Source: https://github.com/openai/codex
+License: Apache License, Version 2.0.
+Copyright OpenAI. Codex and ChatGPT are OpenAI product names.
+TileForge is a local integration, not an OpenAI product.

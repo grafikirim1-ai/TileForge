@@ -1,0 +1,42 @@
+{
+  "grid": {
+    "source": "Gridtastic",
+    "format": "A4",
+    "no": "07",
+    "page_mm": [
+      210.0,
+      297.0
+    ],
+    "page_count": 2,
+    "margins_mm": {
+      "top": 36.0,
+      "bottom": 36.0,
+      "left": 20.0,
+      "right": 52.0
+    },
+    "columns": 1,
+    "gutter_mm": 4.23,
+    "vertical_guides_mm": [
+      0.0,
+      52.0,
+      162.0,
+      170.0,
+      190.0,
+      210.0,
+      230.0,
+      250.0,
+      258.0,
+      368.0,
+      420.0
+    ],
+    "horizontal_guides_mm": [
+      0.0,
+      36.0,
+      261.0,
+      297.0
+    ]
+  },
+  "rationale": "A4 07 supports an image-focused main column with margin annotations. The digital guide uses an original landscape A4 adaptation with a large interface crop and short actions on the right. Commercial template files are not distributed.",
+  "alternatives_rejected": "A4 13 suits images but offers fewer modules for step explanations; A4 19 uses more columns and makes the interface smaller.",
+  "revision_condition": "Revisit the layout for portrait printing or substantially longer text."
+}
